@@ -1,4 +1,4 @@
-#**_ANDREI CHUIKO_**
+#**_ANDREI CHUIKO_** ![Foto](https://avatars.githubusercontent.com/u/101523892?s=400&u=3345dfcfff82bac3f2d09fdf00c7a8e1d5490a7d&v=4)
 
 ---
 
