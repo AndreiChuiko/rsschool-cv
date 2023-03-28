@@ -55,6 +55,9 @@ I am 33 old. I work as an entrepreneur in the construction industry. I am respon
   - _electrician of dispatching equipment and teleautomatics_
 - CSUP "Dilem-stroy"
   - _deputy general director_
-- Individual entrepreneur ##**_LANGUAGES_**
+- Individual entrepreneur
+
+##**_LANGUAGES_**
+
 - Russian
 - English (A1)
